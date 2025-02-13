@@ -23,10 +23,7 @@ reviewData.items.push(
 ```
 おこのみで追加
 
-#### ✅ **2つに減らす**  
-```js
-reviewData.items = reviewData.items.slice(0, 2);
-```
+
 
 #### ✅ **おすすめ度を変更したい？**  
 ```js
